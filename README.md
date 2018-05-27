@@ -1,6 +1,10 @@
 Various network related labs
 ============================
 
+https://vincent.bernat.im/en/blog/2018-multi-tier-loadbalancer
+
+
+
 I use those labs to test various stuff. Most of them are tailored to
 my need. The most recent ones are more likely to work than the older
 ones.
